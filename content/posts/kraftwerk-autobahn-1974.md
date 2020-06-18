@@ -3,7 +3,7 @@ title: "Kraftwerk - Autobahn - 1974"
 date: 2020-06-06T22:57:40+02:00
 draft: true
 tags: ["kraftwerk","1974"]
-categories: ["Musique", "Krautrock"]
+categories: ["Musique", "Kraftwerk"]
 ---
 ![Autobahn](https://img.discogs.com/h-VVMzhRxDJvYBicMoU1quSVWPM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15159-1438035494-1611.jpeg.jpg)
 

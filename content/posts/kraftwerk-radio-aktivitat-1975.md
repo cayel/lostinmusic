@@ -3,7 +3,7 @@ title: "Kraftwerk - Radio-Aktivität - 1975"
 date: 2020-06-09T22:45:49+02:00
 draft: true
 tags: ["kraftwerk","1975"]
-categories: ["Musique", "Krautrock"]
+categories: ["Musique", "Kraftwerk"]
 ---
 ![Radio-Aktivität](https://img.discogs.com/4DAjc6dJ-s1ASKBN2Rl3rxvV0UI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494494-1227517500.jpeg.jpg)
 

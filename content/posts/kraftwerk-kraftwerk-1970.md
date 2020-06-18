@@ -3,7 +3,7 @@ title: "Kraftwerk - Kraftwerk - 1970"
 date: 2020-05-30
 draft: false
 tags: ["kraftwerk","1970"]
-categories: ["Musique", "Krautrock"]
+categories: ["Musique", "Kraftwerk"]
 ---
 ![Kraftwerk](https://img.discogs.com/pU2sYR4XNq-5c_PDtsqjP_7PgdM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125204-1221179767.jpeg.jpg)
 

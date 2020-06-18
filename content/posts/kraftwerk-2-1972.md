@@ -1,9 +1,9 @@
 ---
-title: "Kraftwerk 2 - 1972"
+title: "Kraftwerk - 2 - 1972"
 date: 2020-05-31
 draft: false
 tags: ["Kraftwerk","1972"]
-categories: ["Musique", "Krautrock"]
+categories: ["Musique", "Kraftwerk"]
 ---
 ![Kraftwerk 2](https://img.discogs.com/Ndp1iMZREek7x2QxzRYXB3kvU6E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125206-1390899438-4932.jpeg.jpg)
 

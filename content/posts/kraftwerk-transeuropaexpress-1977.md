@@ -3,7 +3,7 @@ title: "Kraftwerk - Trans Europa Express - 1977"
 date: 2020-06-18T21:09:04+02:00
 draft: true
 tags: ["kraftwerk","1977"]
-categories: ["Musique", "Krautrock"]
+categories: ["Musique", "Kraftwerk"]
 ---
 ![Trans Euuropa Express](https://img.discogs.com/Oqk7sqr8zhRAx4j6JdkyTD4fCrw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-75547-1580075275-7157.jpeg.jpg)
 
