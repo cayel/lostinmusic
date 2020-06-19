@@ -218,12 +218,12 @@ uglyURLs = false
         weight = 4
         pre = "internal"
         post = "tags"
-    #[[menu.main]]
-    #    url = "/about/"
-    #    name = "About"
-    #    weight = 5
-    #    pre = "internal"
-    #    post = "user-circle"
+    [[menu.main]]
+        url = "/about/"
+        name = "About"
+        weight = 5
+        pre = "internal"
+        post = "user-circle"
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
@@ -1173,7 +1173,7 @@ uglyURLs = false
     #       categories or sections and are
     #       separated by vertical bar(|).
 
-    enableAboutPageMinimalFooter = false
+    enableAboutPageMinimalFooter = true
 
 
     ######################################
